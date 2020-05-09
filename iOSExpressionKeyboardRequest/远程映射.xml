@@ -11,7 +11,7 @@
       </sourceLocation>
       <destLocation>
         <protocol>https</protocol>
-        <host>10.134.104.114</host>
+        <host>10.160.75.57</host>
         <port>443</port>
         <path>/qp</path>
         <query>proxy_ip=10.129.192.97&amp;proxy_port=8888</query>
